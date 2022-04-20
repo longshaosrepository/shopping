@@ -23,7 +23,6 @@ public class helloworldmain {
     public  String helloWorld(){
         helloworldmain.class.getClass();
         //读取配置信息
-        //添加测试
         String root = env.getProperty("com.cxytiandi.name");
         System.out.print(root);
         return root;

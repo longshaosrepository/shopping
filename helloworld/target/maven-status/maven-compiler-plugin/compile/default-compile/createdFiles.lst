@@ -1,0 +1,10 @@
+com\bidding\model\TaskThreadPoolConfig.class
+com\bidding\helloword.class
+com\bidding\utils\GlobalExceptionHandler.class
+com\bidding\controller\UserEndpoint.class
+com\bidding\model\AsyncTaskExecutePool$1.class
+com\bidding\controller\saveLog.class
+com\bidding\utils\UserHealthIndicator.class
+com\bidding\controller\helloworldmain.class
+com\bidding\model\ResponseData.class
+com\bidding\model\AsyncTaskExecutePool.class

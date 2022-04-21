@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: helloworld
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: admin
+Implementation-Vendor-Id: org.example
+Build-Jdk: 1.8.0_121
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/helloworld
+Created-By: Maven Integration for Eclipse
+

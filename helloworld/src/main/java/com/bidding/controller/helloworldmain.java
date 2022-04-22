@@ -13,7 +13,7 @@ public class helloworldmain {
 
     private static final String TAG = "helloworldmain";
 
-    //注入对象
+    //注入对象测试提交
     @Autowired
     private Environment env;
 
